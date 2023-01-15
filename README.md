@@ -29,7 +29,7 @@ Una vez que se clona el repositorio:
     
     python3 lupa.py
     
-    Puedes usar este estilo de letra diferenciar los comandos de instalación.
+
 
 ## Cómo contribuir
 ---
