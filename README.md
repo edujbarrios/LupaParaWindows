@@ -1,7 +1,7 @@
 # Lupa Para Windows
 
 ## Breve Descripción 👇
- *Este script permitirá hacer la función de zoom sobre cualquier parte de la pantalla*
+ *Este script permitirá hacer la función de zoom sobre cualquier parte de la pantalla tanto de Windows, Linux o Linux*
 
 ## Descripción y contexto
 ---
